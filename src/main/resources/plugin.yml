@@ -1,0 +1,4 @@
+name: CHAtoWEB
+version: '1.0'
+main: prj.salmon.chattoweb.CHAtoWEB
+api-version: '1.20'
